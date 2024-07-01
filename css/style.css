@@ -73,3 +73,31 @@ th,td{
 .tabella-bianca{
     background-color: white;
 }
+
+h3{
+    color: lightgrey;
+}
+
+figure{
+    margin: 0;
+}
+
+#monitorlorem{
+    position: relative;
+    color: white;
+
+}
+
+#grafico{
+    position: relative;
+    color: white;
+}
+
+.scrittalink{
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
