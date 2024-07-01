@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#banner{
+    margin: 0;
+    height: 90px;
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 30%;
+
+}
+#icona{
+    height: 3rem;
+    padding: 16px;
+    padding-left: 0;
+}
