@@ -32,3 +32,17 @@ body{
 #data{
     font-size: 0.6rem;
 }
+
+#foto-tim{
+margin: 0;
+height: 340px;
+}
+
+#foto-tim1{
+    height: 80%;
+    max-width:58%;
+}
+#foto-tim2{
+    height: 80%;
+    max-width: 40%;
+}
