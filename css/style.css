@@ -20,3 +20,15 @@ body{
     padding: 16px;
     padding-left: 0;
 }
+
+#titolo{
+    margin: 0;
+}
+
+#autore{
+    color: lightgray;
+}
+
+#data{
+    font-size: 0.6rem;
+}
